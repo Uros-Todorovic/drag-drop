@@ -1,19 +1,23 @@
 {
-  "name": "understanding-typescript",
+  "name": "2.-draganddrop",
   "version": "1.0.0",
-  "description": "Understanding TypeScript Course Setup",
-  "main": "app.js",
+  "description": "��#\u0000 \u0000d\u0000r\u0000a\u0000g\u0000-\u0000d\u0000r\u0000o\u0000p\u0000\r\u0000 \u0000",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "lite-server"
   },
-  "keywords": [
-    "typescript",
-    "course"
-  ],
-  "author": "Maximilian Schwarzmüller",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uros-Todorovic/drag-drop.git"
+  },
+  "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Uros-Todorovic/drag-drop/issues"
+  },
+  "homepage": "https://github.com/Uros-Todorovic/drag-drop#readme",
   "devDependencies": {
-    "lite-server": "^2.5.4"
+    "lite-server": "^2.6.1"
   }
 }
